@@ -1,0 +1,11 @@
+{
+  "name": "Photo Vault",
+  "short_name": "PhotoVault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0f172a",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": []
+}
