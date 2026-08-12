@@ -1,4 +1,4 @@
-const DB_NAME = "photovault";
+const DB_NAME = "photoFarhad";
 const STORE = "photos";
 const DB_VERSION = 3;
 
